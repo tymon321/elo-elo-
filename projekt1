@@ -1,0 +1,5 @@
+imie = input("Podaj imie")
+a = 0
+
+while a < 5:
+      print("siema", imie)
